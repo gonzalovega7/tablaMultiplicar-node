@@ -1,0 +1,5 @@
+// Todo lo que va a excluir git
+
+node_modules/
+
+tablas/*.txt
